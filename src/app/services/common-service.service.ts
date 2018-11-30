@@ -2,8 +2,8 @@ import { Component, NgModule, Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 
 
-var vURL = "http://localhost:8060/";
- //var vURL = "http://localhost:10326/";
+var vURL = "http://localhost:8050/";
+// var vURL = "http://localhost:10326/";
 
 const httpOptions = {
   headers: new HttpHeaders({
