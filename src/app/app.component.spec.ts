@@ -165,14 +165,14 @@ describe('AppComponent', () => {
   const userDetails: any = [
     {
       "User_ID": "1",
-      "First_Name": "Vijay",
-      "Last_Name": "Palani",
+      "First_Name": "Suresh",
+      "Last_Name": "Karupaiah",
       "Employee_ID": "123"
     },
     {
       "User_ID": "2",
-      "First_Name": "Vijay",
-      "Last_Name": "Palani",
+      "First_Name": "Suresh",
+      "Last_Name": "Karupaiah",
       "Employee_ID": "1234"
     }
   ];
